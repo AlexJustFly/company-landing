@@ -1,5 +1,5 @@
 # company-landing
-HTML, CSS, SASS, Bootstrap4, pure JS, Gulp, adaptive,  cross-browser compatibility
+HTML, CSS, SASS, Bootstrap4, pure JS, Gulp, adaptive,  cross-browser compatibility, google maps api
 
 Верстка макета сайта по PSD шаблону, взятого из открытых источников. Адаптивная, кроссбраузерная верстка по БЭМ методологии с использованием препроцессора SASS, фреймворка Bootstrap4, сборщика Gulp.
 
