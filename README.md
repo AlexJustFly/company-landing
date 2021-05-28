@@ -1,6 +1,5 @@
-# bandi-landing
-HTML, CSS, SASS, Bootstrap4, pure JS, Gulp, adaptive,  cross-browser compatibility, google maps api
+# Bandi landing
 
-Верстка макета сайта по PSD шаблону, взятого из открытых источников.
+Верстка макета сайта с использованием стека техлогий: HTML, CSS (SASS), JS (JQ), Bootstrap, Gulp. Проработана адаптивность, респонсивность, кроссбраузерность.
 
-![alt text](https://github.com/AlexJustFly/company-landing/blob/master/prev1.jpg)
+![alt text](https://github.com/AlexJustFly/company-landing/blob/master/bandi_full.jpg)
